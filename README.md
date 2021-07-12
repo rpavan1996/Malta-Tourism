@@ -1,5 +1,6 @@
 # Malta-Tourism
 Please create a database with name "tourism_malta" before running an application.
+Please run "npm install" command for node modules.
 Please run an node js application via command line using command 
 "nodemon app.js"
 
